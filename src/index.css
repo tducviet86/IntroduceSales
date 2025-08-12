@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* tuỳ chọn: custom theme */
+@theme {
+  --color-brand: #16a34a;
+}
